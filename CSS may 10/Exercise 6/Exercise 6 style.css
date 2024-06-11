@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+
+.box {
+    width: 80%;
+    background-color: white;
+    border: 2px;
+    border-style: groove;
+    padding: 10px;
+    margin: 10px 10px 2px 0px;
+}
+
+.text_color {
+    color: red;
+}
+
+.border_dashed {
+    border: 1;
+    border-style: dashed;         
+}
+#border_red {
+    border-color: red;
+}
+
+span {
+    background-color: yellow;
+    font-weight: bold;
+}
+#orange-background {
+    background-color: orange;
+    font-weight: bold;
+}
+#orange2-background {
+    background-color: orange;
+    font-weight: bold;
+}
+#orange3-background {
+    background-color: orange;
+    font-weight: bold;
+}
